@@ -8,7 +8,7 @@ URLShortner uses a number of open source projects to work properly:
 * [Django] - Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design. 
 * [MongoDB] - MongoDB is an open-source document database that provides high performance, high availability, and automatic scaling.
 
-And of course MERNChart itself is open source with a [public repository][dill]
+And of course URLShortner itself is open source with a [public repository][dill]
  on GitHub.
 
 ### Installation
